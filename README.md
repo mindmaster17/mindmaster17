@@ -6,7 +6,7 @@ I'm a **Mechanical Engineering** student at **GEC Thrissur** with a passion for 
 ## 🔧 Skills & Interests
 - 🔩 **Mechanical Design**: SolidWorks, Fusion 360, FreeCAD, AutoCAD
 - 🤖 **Robotics & Embedded Systems**: ROS 2, Arduino, ESP8266
-- 💻 **Programming**: Python, C, HTML, CSS
+- 💻 **Programming**: Python, C, HTML, CSS, MATLAB Simulink
 - ⚙️ **Product Development**: Prototyping, 3D Printing, Electronics Integration
 - 🌿 **Sustainable Engineering**: Eco-friendly solutions & energy-efficient designs
 
