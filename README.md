@@ -1,7 +1,7 @@
-## 💫 About Me:
-## Hi there, I'm Navadeep C K! 👋<br><br>
-## 🚀 About Me<br>I'm a **Mechanical Engineering** student at **GEC Thrissur** with a passion for **robotics, CAD designing, and embedded systems**. I love working on innovative projects that bridge the gap between mechanical and electronic systems.<br><br>
-## 🔧 Skills & Interests<br>- 
+# 💫 About Me:
+# Hi there, I'm Navadeep C K! 👋<br><br>
+# 🚀 About Me<br>I'm a **Mechanical Engineering** student at **GEC Thrissur** with a passion for **robotics, CAD designing, and embedded systems**. I love working on innovative projects that bridge the gap between mechanical and electronic systems.<br><br>
+# 🔧 Skills & Interests<br>- 
 🔩 **Mechanical Design**: SolidWorks, Fusion 360, FreeCAD, AutoCAD<br>- 
 🤖 **Robotics & Embedded Systems**: ROS 2, Arduino, ESP8266<br>- 
 💻 **Programming**: Python, C, HTML, CSS, MATLAB Simulink<br>- 
@@ -9,7 +9,7 @@
 🌿 **Sustainable Engineering**: Eco-friendly solutions & energy-efficient designs
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sEPkNzbG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navadeep-c-k-24798b2b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navadeepck@gmail.com) 
 
 # 💻 Tech Stack:
@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mindmaster17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mindmaster17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
