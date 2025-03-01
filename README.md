@@ -1,6 +1,6 @@
 ## 💫 About Me  
-### Hi there, I'm **Navadeep C K**! 👋  
-### I'm a **Mechanical Engineering** student at **GEC Thrissur** passionate about **robotics, CAD designing, and embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems.  
+### Hi there, ! 👋  
+### I'm a **Mechanical Engineering** student passionate about **robotics, CAD designing, and embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems.  
 
 ### 🔧 Skills & Interests  
 - 🔩 **Mechanical Design**: SolidWorks, Fusion 360, FreeCAD, AutoCAD  
