@@ -12,7 +12,7 @@
 ## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sEPkNzbG)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navadeep-c-k-24798b2b8)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navadeepck@gmail.com) ![GrabCad](https://img.shields.io/badge/GRAB%20CAD-fe5337?style=flat&logo=g2&logoColor=white&link=https%3A%2F%2Fgrabcad.com%2Fnavadeep.c.k-1)
 ## 💻 Tech Stack  
-![Solidworks](https://img.shields.io/badge/SOLIDWORKS-c8230f?style=for-the-badge&logo=solid)  ![](https://img.shields.io/badge/Freecad-248de7?style=for-the-badge&logo=freecad&logoColor=white)  ![Autocad](https://img.shields.io/badge/AutoCAD-ed0b51?style=for-the-badge&logo=autocad)  ![](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge&logo=autodesk&logoColor=white)   ![OnShape](https://img.shields.io/badge/ONSHAPE-58d26d?style=for-the-badge&logo=abbrobotstudio&logoColor=white)
+![Solidworks](https://img.shields.io/badge/SOLIDWORKS-c8230f?style=for-the-badge&logo=solid)  ![](https://img.shields.io/badge/Freecad-248de7?style=for-the-badge&logo=freecad&logoColor=white)  ![Autocad](https://img.shields.io/badge/AutoCAD-ed0b51?style=for-the-badge&logo=autocad)  ![](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge&logo=autodesk&logoColor=white)   ![OnShape](https://img.shields.io/badge/ONSHAPE-58d26d?style=for-the-badge&logo=abbrobotstudio&logoColor=white)  ![ROS Badge](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=for-the-badge)
 
 
 
