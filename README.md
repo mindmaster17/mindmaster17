@@ -1,6 +1,6 @@
-## 💫 About Me  
-### Hi there, ! 👋  
-### I'm a **Mechanical Engineering** student passionate about **robotics, CAD designing, and embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems.  
+### 💫 About Me  
+#### Hi there, ! 👋  
+#### I'm a **Mechanical Engineering** student passionate about **robotics, CAD designing, and embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems.  
 
 ### 🔧 Skills & Interests  
 - 🔩 **Mechanical Design**: SolidWorks, Fusion 360, FreeCAD, AutoCAD  
@@ -10,7 +10,7 @@
 - 🌿 **Sustainable Engineering**: Eco-friendly solutions & energy-efficient designs  
 
 ## 🌐 Socials  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sEPkNzbG)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navadeep-c-k-24798b2b8)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navadeepck@gmail.com) [![GrabCAD](https://img.shields.io/badge/GRAB%20CAD-fe5337?style=flat&logo=g2&logoColor=white)](https://grabcad.com/navadeep.c.k-1)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sEPkNzbG)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navadeep-c-k-24798b2b8)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navadeepck@gmail.com) [![GrabCAD](https://img.shields.io/badge/GRAB%20CAD-ec5c51?logo=g2&logoColor=white)](https://grabcad.com/navadeep.c.k-1)
 
 ## 💻 Tech Stack  
 ![Solidworks](https://img.shields.io/badge/SOLIDWORKS-c8230f?style=for-the-badge&logo=solid)  ![](https://img.shields.io/badge/Freecad-248de7?style=for-the-badge&logo=freecad&logoColor=white)  ![Autocad](https://img.shields.io/badge/AutoCAD-ed0b51?style=for-the-badge&logo=autocad)  ![](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge&logo=autodesk&logoColor=white)   ![OnShape](https://img.shields.io/badge/ONSHAPE-58d26d?style=for-the-badge&logo=abbrobotstudio&logoColor=white)  ![Ansys Badge](https://img.shields.io/badge/Ansys-FFB71B?logo=ansys&logoColor=000&style=for-the-badge)  ![ROS Badge](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=for-the-badge)  ![Matlab](https://img.shields.io/badge/MATLAB-fe5337?style=for-the-badge)
