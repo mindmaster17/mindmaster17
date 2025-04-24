@@ -1,8 +1,8 @@
-### 💫 About Me  
-#### Hi there, ! 👋  
-#### I'm a **Mechanical Engineering** student passionate about **robotics, CAD designing, and embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems.  
+## 💫 About Me  
+### Hi there, ! 👋  
+### I'm a **Mechanical Engineering** student passionate about **robotics, CAD designing, and embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems.  
 
-### 🔧 Skills & Interests  
+## 🔧 Skills & Interests  
 - 🔩 **Mechanical Design**: SolidWorks, Fusion 360, FreeCAD, AutoCAD  
 - 🤖 **Robotics & Embedded Systems**: ROS 2, Arduino, ESP8266  
 - 💻 **Programming**: Python, C, HTML, CSS, MATLAB Simulink  
