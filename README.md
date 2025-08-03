@@ -7,7 +7,7 @@
 - 🤖 **Robotics & Embedded Systems**: ROS 2, Arduino, ESP8266  
 - 💻 **Programming**: Python, C, HTML, CSS, MATLAB Simulink  
 - ⚙️ **Product Development**: Prototyping, 3D Printing, Electronics Integration  
-- 🌿 **Sustainable Engineering**: Eco-friendly solutions & energy-efficient designs  
+
 
 ## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sEPkNzbG)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navadeep-c-k-24798b2b8)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navadeepck@gmail.com) [![GrabCAD](https://img.shields.io/badge/GRAB%20CAD-ec5c51?logo=g2&logoColor=white)](https://grabcad.com/navadeep.c.k-1)
