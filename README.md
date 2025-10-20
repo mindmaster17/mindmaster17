@@ -21,10 +21,14 @@ I'm a **Mechanical Engineering** student at **Government Engineering College, Th
 
 ### 🚀 Projects
 
-* **[Project Name]**: A brief, one-sentence description of the project and your role in it.
-    * **Technologies used**: List 2-3 key technologies here (e.g., **ROS 2**, **Python**, **Fusion 360**).
-* **[Another Project]**: A brief, one-sentence description of the project and your role in it.
-    * **Technologies used**: List 2-3 key technologies here.
+* **SuperTalker – Assistive Communication Device**: Designed and built a low-cost, rechargeable speech aid for NIPMER using capacitive touch input and voice playback.  
+    * **Technologies used**: **ISD1820 Voice Module**, **Arduino**, **Li-ion Charging Circuit**  
+
+* **Antweight Combat Robot**: Engineered a hybrid wedge–flipper bot optimized for agility and power in close-range robotic combat.  
+    * **Technologies used**: **SolidWorks**, **ESP8266**, **Servo Control**  
+
+* **CAN Bus Data Acquisition for Formula Imperial Vehicle**: Implemented a system to read and analyze ECU data for performance tuning and diagnostics in an FSAE-style race car.  
+    * **Technologies used**: **ESP32**, **MCP2515 CAN Module**, **C++**  
 
 ---
 
