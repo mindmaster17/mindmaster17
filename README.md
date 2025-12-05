@@ -1,4 +1,4 @@
-### 💫 Hi there, I'm Navadeep C.K. 👋 
+### 💫 Hi there, I'm Navadeep 👋 
 
 I'm a **Mechanical Engineering** student at **Government Engineering College, Thrissur**, with a strong passion for **robotics** and **embedded systems**. I love working on projects that bridge the gap between mechanical and electronic systems, and I am particularly interested in their applications in the **aerospace** and **automotive** industries.
 
